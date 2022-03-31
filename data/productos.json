@@ -1,0 +1,15 @@
+{
+    "ultima_actualizacion": "2022-03-30 21:01:32",
+    "productos": [
+        {
+            "id": 1235,
+            "nombre": "Aceite",
+            "precio": 1200
+        },
+        {
+            "id": "e7f6aa89",
+            "nombre": "Harina de Trigo",
+            "precio": 850
+        }
+    ]
+}
