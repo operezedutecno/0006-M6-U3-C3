@@ -1,5 +1,5 @@
 {
-    "ultima_actualizacion": "2022-03-30 21:01:32",
+    "ultima_actualizacion": "2022-03-31 19:12:23",
     "productos": [
         {
             "id": 1235,
@@ -10,6 +10,16 @@
             "id": "e7f6aa89",
             "nombre": "Harina de Trigo",
             "precio": 850
+        },
+        {
+            "id": "30a14e00",
+            "nombre": "Salsa de Ajo",
+            "precio": 1100
+        },
+        {
+            "id": "f70f2589",
+            "nombre": "Salsa Inglesa",
+            "precio": 900
         }
     ]
 }
